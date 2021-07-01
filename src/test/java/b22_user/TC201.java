@@ -1,5 +1,7 @@
 package b22_user;
 
 public class TC201 {
-    //code here
+    public static void main(String[] args) {
+        System.out.println("Have a good night");
+    }
 }
